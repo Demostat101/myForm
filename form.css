@@ -1,0 +1,25 @@
+.container {
+    background-color: black;
+    display: grid;
+    justify-content: center;
+    place-items: center;
+    padding: 2em 0em;
+}
+
+.Input {
+    width: 20em;
+    height: 2em;
+    border-color: hotpink;
+}
+
+label {
+    color:white;
+}
+
+textarea {
+    border-color: hotpink;
+}
+
+.upload {
+    color: white;
+}
